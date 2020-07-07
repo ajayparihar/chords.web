@@ -207,7 +207,7 @@ banner
 }
 .Modern-Slider .item h1 {
   margin-bottom: 50px;
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 800;
   letter-spacing: 5px;
   color:#fff;
@@ -217,7 +217,7 @@ banner
 
 .Modern-Slider .item h5 {
   margin-bottom: 50px;
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 200;
   letter-spacing: 2px;
   color:#fff;
@@ -250,7 +250,7 @@ footer
 */
 
 footer {
-  padding: 80px 0px;
+  padding: 30px 0px;
   background: linear-gradient(180deg, rgba(255, 255, 255,1) 0%, rgba(255, 255, 255,1) 100%);
 }
 

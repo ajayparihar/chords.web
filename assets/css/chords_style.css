@@ -254,9 +254,18 @@ footer {
   background: linear-gradient(180deg, rgba(255, 255, 255,1) 0%, rgba(255, 255, 255,1) 100%);
 }
 
+footer .left_up-text-content p {
+  color: #000;
+  font-size: 15px;
+}
+
+footer .left_up-text-content a {
+  color: #000;
+}
+
 footer .left-text-content p {
   color: #000;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 footer .left-text-content a {
@@ -268,10 +277,9 @@ footer .right-text-content {
 }
 
 footer .right-text-content p {
-  color: #fff;
+  color: #000;
   font-size: 14px;
   margin-right: 15px;
-  text-transform: uppercase;
 }
 
 footer .right-text-content ul li {

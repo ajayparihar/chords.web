@@ -92,7 +92,7 @@ body {
 
 a.main-filled-button {
   font-size: 20px;
-  border-radius: 25px;
+  border-radius: 5px;
   padding: 13px 25px;
   background-color: #ffffff;
   color: #000;
@@ -164,7 +164,7 @@ header
 .header-area .main-nav .logo {
   line-height: 80px;
   color: #fff;
-  font-size: 20px;
+  font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -199,7 +199,7 @@ banner
   vertical-align:middle;
 }
 .Modern-Slider .text-content {
-  width: 80%;
+  width: 100%;
   position: absolute;
   top: 50%;
   left: 50%;
